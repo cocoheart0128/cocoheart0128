@@ -25,8 +25,8 @@
 	<p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
-	<img src="https://img.shields.io/badge/Jupyter%20notebook-2C2255?style=flat&logo=Jupyter&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+ 	<img src="https://img.shields.io/badge/Jupyter%20notebook-2C2255?style=flat&logo=Jupyter&logoColor=white" />
 	<img src="https://img.shields.io/badge/Pycharm%20Studio%20Code-007ACC?style=flat&logo=Pycharm&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
