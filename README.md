@@ -3,7 +3,7 @@
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
+	<p>✨ Languages & Packages ✨</p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Python&logoColor=white" />
@@ -15,6 +15,10 @@
 	<img src="https://img.shields.io/badge/Streamlit-000000?style=flat&logo=Streamlit&logoColor=white" />
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
 	<br>
+	<img src="https://img.shields.io/badge/scikit-learn-6DB33F?style=flat&logo=scikit-learn&logoColor=white" />
+	<img src="https://img.shields.io/badge/Pandas-000000?style=flat&logo=Streamlit&logoColor=white" />
+	<img src="https://img.shields.io/badge/Numpy-43B02A?style=flat&logo=Selenium&logoColor=white" />
+	<br>
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/PostgreSQL-003545?style=flat&logo=MariaDB&logoColor=white" />
@@ -22,7 +26,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<p>🛠 Platforms & Tools 🛠</p>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
@@ -32,6 +36,7 @@
 	<img src="https://img.shields.io/badge/AWS-F8DC75?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tigergraph-FF9800?style=flat&logo=Tigergraph&logoColor=white" />
 	<img src="https://img.shields.io/badge/Databricks-623CE4?style=flat&logo=Databricks&logoColor=white" />
+	<img src="https://img.shields.io/badge/Tableau-623CE4?style=flat&logo=Tableau&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
