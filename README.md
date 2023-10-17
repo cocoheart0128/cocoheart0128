@@ -32,7 +32,6 @@
 	<img src="https://img.shields.io/badge/AWS-F8DC75?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tigergraph-FF9800?style=flat&logo=Tigergraph&logoColor=white" />
 	<img src="https://img.shields.io/badge/Databricks-232F3E?style=flat&logo=Databricks&logoColor=white" />
-	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
