@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=kexin%20Space&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KEXIN's%20Space&fontSize=90" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocoheart0128&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=cocoheart0128&show_icons=true">
 
