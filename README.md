@@ -6,7 +6,7 @@
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+	<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/R-E34F26?style=flat&logo=R&logoColor=white" />
 	<img src="https://img.shields.io/badge/SQL-1572B6?style=flat&logo=SQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/Pyspark-F7DF1E?style=flat&logo=Pyspark&logoColor=white" />
