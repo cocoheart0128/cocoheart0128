@@ -16,8 +16,8 @@
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/scikit-learn-6DB33F?style=flat&logo=scikit-learn&logoColor=white" />
-	<img src="https://img.shields.io/badge/Pandas-000000?style=flat&logo=Streamlit&logoColor=white" />
-	<img src="https://img.shields.io/badge/Numpy-43B02A?style=flat&logo=Selenium&logoColor=white" />
+	<img src="https://img.shields.io/badge/Pandas-000000?style=flat&logo=Pandas&logoColor=white" />
+	<img src="https://img.shields.io/badge/Numpy-43B02A?style=flat&logo=Numpy&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
