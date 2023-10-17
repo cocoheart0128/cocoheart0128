@@ -9,7 +9,7 @@
 	<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/R-E34F26?style=flat&logo=R&logoColor=white" />
 	<img src="https://img.shields.io/badge/SQL-1572B6?style=flat&logo=SQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/Pyspark-F7DF1E?style=flat&logo=Pyspark&logoColor=white" />
+	<img src="https://img.shields.io/badge/Spark-F7DF1E?style=flat&logo=apachespark&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Beautifulsoup-6DB33F?style=flat&logo=Beautifulsoup&logoColor=white" />
 	<img src="https://img.shields.io/badge/Streamlit-000000?style=flat&logo=Streamlit&logoColor=white" />
