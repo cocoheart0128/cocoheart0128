@@ -39,6 +39,10 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
+	<a href="cocoheart0128">
+		<img src="https://img.shields.io/badge/wechat-30B980?style=flat&logo=wechat&logoColor=white" />
+	</a>
+	
 	<a href="qiukexin95@naver.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
