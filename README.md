@@ -54,17 +54,6 @@
 
 ![Kexin's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=cocoheart0128)
 
-<br>
-<p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cocoheart0128)](https://solved.ac/cocoheart0128)
-</div>
-<br>
-
-![](./profile-3d-contrib/profile-season-animate.svg)
-
-
-
 
 <!--
 **cocoheart0128/cocoheart0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
