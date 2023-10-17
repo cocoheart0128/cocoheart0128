@@ -52,7 +52,7 @@
 		<img src="https://img.shields.io/badge/Mail-C7A48B?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="https://cocoheart0128.notion.site/eaa7a3b3c7f34e4bb9cce72e1b260a82">
-		<img src="https://img.shields.io/badge/Notion-C6BBB7?style=flat&logo=Notion&logoColor=white" />
+		<img src="https://img.shields.io/badge/Notion-FFD159?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
 </div>
