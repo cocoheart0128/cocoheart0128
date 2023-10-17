@@ -13,15 +13,15 @@
 	<br>
 	<img src="https://img.shields.io/badge/Beautifulsoup-A3DCBE?style=flat&logo=Beautifulsoup&logoColor=white" />
 	<img src="https://img.shields.io/badge/Streamlit-E3A6AE?style=flat&logo=Streamlit&logoColor=white" />
-	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
+	<img src="https://img.shields.io/badge/Selenium-FD866E?style=flat&logo=Selenium&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/scikit-learn-6DB33F?style=flat&logo=scikit-learn&logoColor=white" />
-	<img src="https://img.shields.io/badge/Pandas-000000?style=flat&logo=Pandas&logoColor=white" />
-	<img src="https://img.shields.io/badge/Numpy-43B02A?style=flat&logo=Numpy&logoColor=white" />
+	<img src="https://img.shields.io/badge/scikit-learn-F8E2CF?style=flat&logo=scikit-learn&logoColor=white" />
+	<img src="https://img.shields.io/badge/Pandas-6FC7E1?style=flat&logo=Pandas&logoColor=white" />
+	<img src="https://img.shields.io/badge/Numpy-FFA883?style=flat&logo=Numpy&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/PostgreSQL-003545?style=flat&logo=MariaDB&logoColor=white" />
+	<img src="https://img.shields.io/badge/Oracle%20SQL-CDE4AD?style=flat&logo=Oracle&logoColor=white" />
+	<img src="https://img.shields.io/badge/MySQL-7BD1D2?style=flat&logo=MySQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/PostgreSQL-75BDE0?style=flat&logo=MariaDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
 <br>
