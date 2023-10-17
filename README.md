@@ -1,7 +1,12 @@
 ### Hi there 👋
 
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=EF2D5E&height=150&section=footer&text=kexin's%20space&fontSize=60&fontColor=d6ace6&desc=Hello%20capsule%20render" />
-#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cocoheart0128&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocoheart0128&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=cocoheart0128&show_icons=true">
+
+
+
+
 <!--
 **cocoheart0128/cocoheart0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
