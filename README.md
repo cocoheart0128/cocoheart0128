@@ -19,7 +19,7 @@
 	<img src="https://img.shields.io/badge/Pandas-6FC7E1?style=flat&logo=Pandas&logoColor=white" />
 	<img src="https://img.shields.io/badge/Numpy-FFA883?style=flat&logo=Numpy&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/Oracle%20SQL-CDE4AD?style=flat&logo=Oracle&logoColor=white" />
+	<img src="https://img.shields.io/badge/Oracle%20SQL-76819C?style=flat&logo=Oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-7BD1D2?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/PostgreSQL-75BDE0?style=flat&logo=MariaDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
