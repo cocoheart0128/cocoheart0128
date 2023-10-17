@@ -29,9 +29,9 @@
  	<img src="https://img.shields.io/badge/Jupyter%20notebook-2C2255?style=flat&logo=Jupyter&logoColor=white" />
 	<img src="https://img.shields.io/badge/Pycharm%20Studio%20Code-007ACC?style=flat&logo=Pycharm&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
-	<img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
+	<img src="https://img.shields.io/badge/AWS-F8DC75?style=flat&logo=AmazonAWS&logoColor=white" />
+	<img src="https://img.shields.io/badge/Tigergraph-009639?style=flat&logo=Tigergraph&logoColor=white" />
+	<img src="https://img.shields.io/badge/Databricks-232F3E?style=flat&logo=Databricks&logoColor=white" />
 	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
