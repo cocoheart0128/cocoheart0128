@@ -43,7 +43,7 @@
 		<img src="https://img.shields.io/badge/wechat-30B980?style=flat&logo=wechat&logoColor=white" />
 	</a>
 	<a href="qiukexin95@naver.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/Mail-017CEE?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="https://cocoheart0128.notion.site/eaa7a3b3c7f34e4bb9cce72e1b260a82">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
