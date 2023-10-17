@@ -36,7 +36,7 @@
 	<img src="https://img.shields.io/badge/AWS-F8DC75?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tigergraph-F4BBBB?style=flat&logo=Tigergraph&logoColor=white" />
 	<img src="https://img.shields.io/badge/Databricks-623CE4?style=flat&logo=Databricks&logoColor=white" />
-	<img src="https://img.shields.io/badge/Tableau-623CE4?style=flat&logo=Tableau&logoColor=white" />
+	<img src="https://img.shields.io/badge/Tableau-FCB6D0?style=flat&logo=Tableau&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
@@ -48,10 +48,10 @@
 		<img src="https://img.shields.io/badge/wechat-30B980?style=flat&logo=wechat&logoColor=white" />
 	</a>
 	<a href="qiukexin95@naver.com">
-		<img src="https://img.shields.io/badge/Mail-017CEE?style=flat&logo=Gmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/Mail-C7A48B?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="https://cocoheart0128.notion.site/eaa7a3b3c7f34e4bb9cce72e1b260a82">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+		<img src="https://img.shields.io/badge/Notion-C6BBB7?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
 </div>
