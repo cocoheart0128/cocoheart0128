@@ -10,6 +10,7 @@
 	<img src="https://img.shields.io/badge/R-E34F26?style=flat&logo=R&logoColor=white" />
 	<img src="https://img.shields.io/badge/SQL-1572B6?style=flat&logo=SQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spark-F7DF1E?style=flat&logo=apachespark&logoColor=white" />
+	<img src="https://img.shields.io/badge/SparkMLib-FA991C?style=flat&logo=apachespark&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Beautifulsoup-A3DCBE?style=flat&logo=Beautifulsoup&logoColor=white" />
 	<img src="https://img.shields.io/badge/Streamlit-E3A6AE?style=flat&logo=Streamlit&logoColor=white" />
