@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=kexin&fontSize=20" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer&text=kexin github&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer&text=kexin&fontSize=40" />
 
 <!--
 **cocoheart0128/cocoheart0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
