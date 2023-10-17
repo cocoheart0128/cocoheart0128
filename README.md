@@ -34,7 +34,7 @@
 	<img src="https://img.shields.io/badge/Pycharm%20Studio%20Code-017CEE?style=flat&logo=Pycharm&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/AWS-F8DC75?style=flat&logo=AmazonAWS&logoColor=white" />
-	<img src="https://img.shields.io/badge/Tigergraph-F4BBBB?style=flat&logo=Tigergraph&logoColor=white" />
+	<img src="https://img.shields.io/badge/Tigergraph-B97A63?style=flat&logo=Tigergraph&logoColor=white" />
 	<img src="https://img.shields.io/badge/Databricks-623CE4?style=flat&logo=Databricks&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tableau-FCB6D0?style=flat&logo=Tableau&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
