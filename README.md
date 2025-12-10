@@ -55,14 +55,9 @@
 		<img src="https://img.shields.io/badge/Notion-FFD159?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
-</div>
-<div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocoheart0128&layout=compact">
-<div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api?username=cocoheart0128&show_icons=true">
 
+
+	
 <!--
 **cocoheart0128/cocoheart0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
